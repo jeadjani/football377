@@ -1,0 +1,27 @@
+/* .home-card-div {
+
+} */
+
+.top-section {
+    margin-top: 15px;
+
+}
+
+.fixtures {
+    text-align: center;
+    animation: fade-in 3s;
+}
+
+.home-card-score {
+    font-size: .85rem;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 100;
+    }
+}
